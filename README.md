@@ -48,7 +48,7 @@ To complete Part II, fulfill the following requirements:
 
 Local Storage is a way for us to store data locally without affecting website performance. Local Storage takes in name/value pairs that will be stored with no expiration date. Read up on Local Storage here: https://www.w3schools.com/html/html5_webstorage.asp.
 
-Before you begin, create a function that will run our code as soon as our webpage load:
+Before you begin, create a function that will run our code as soon as our webpage loads:
 
 ```JavaScript
 window.onload = function() {
@@ -82,7 +82,7 @@ Example:
 localStorage.setItem('like', likeCount);
 ```
 
-- Change the innerHTML of the respective text variable to our new count number using ```localStorage```. *Hint: We want localStorage to get our item! What methods from localStorage can we use?*
+- Change the innerHTML of the respective text variable to our new count number using ```localStorage```. *Hint: We want localStorage to get our item! What methods from localStorage can we use to return the value we want?*
 
 ### Stretch Goals
 1. Let's say we want to start our like counts from the beginning. How do we reset all of the values? Create a reset button!
