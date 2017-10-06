@@ -2,6 +2,8 @@
 
 Create reaction buttons for your website and store how many times they've been clicked! Time to become the most popular person on your web server!
 
+![Reactions](https://github.com/ginawatanabe/all-the-likes/blob/master/images/assets/reactions.png)
+
 ## Objective
 
 Use **Local Storage** and **JavaScript Events** to store how many times a user clicks on an image. Change the **innerHTML** of an HTML element to display this information.
