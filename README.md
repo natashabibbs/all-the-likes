@@ -2,7 +2,7 @@
 
 Create reaction buttons for your website and store how many times they've been clicked! Time to become the most popular person on your web server!
 
-![Reactions](https://github.com/ginawatanabe/all-the-likes/blob/master/images/assets/reactions.png)
+![Reactions](https://github.com/ginawatanabe/all-the-likes/blob/master/assets/reactions.png)
 
 ## Objective
 
