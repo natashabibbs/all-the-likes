@@ -1,17 +1,18 @@
 img{
-    width: 50px;
-    height: 50px;
+    width: 70px;
+    height: 70px;
 }
 
 body {
     display: flex;
-    /* flex-direction: column; */
-    margin: auto;
+    flex-direction: column;
+    font-family: 'Berkshire Swash', cursive;
+    align-items: center;
+    justify-content: center;
 }
 
 #clear{
     border-radius: 25%;
     width: 100px;
     height: 50px;
-    margin: auto;
 }
